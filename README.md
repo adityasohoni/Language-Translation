@@ -3,13 +3,13 @@ This repo contains the code for Seminar paper.
 This repo is still under development.
 
 
-Course Code : CS355
+### Course Code : CS355
 
-Members
+### Members
 
-Aditya Chandrashekhar Sohoni 
+1. Aditya Chandrashekhar Sohoni
 Roll No : 181CO203
 
-Arnav Nair
+2. Arnav Nair
 Roll No : 181CO209
 
