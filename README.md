@@ -1,5 +1,6 @@
 # Language-Translation
-This repo contains the code for Seminar paper for the paper titled "From Language Translation to Chatbots and Virtual Assistants:  TheRise of Attention Based Transformer Models".
+This repo contains the code for Seminar Course. The paper is titled "From Language Translation to Chatbots and Virtual Assistants:  TheRise of Attention Based Transformer Models".  
+
 This repo is still under development.
 
 
