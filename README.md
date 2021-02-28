@@ -1,5 +1,5 @@
 # Language-Translation
-This repo contains the code for Seminar paper.
+This repo contains the code for Seminar paper for the paper titled "From Language Translation to Chatbots and Virtual Assistants:  TheRise of Attention Based Transformer Models".
 This repo is still under development.
 
 
@@ -7,11 +7,9 @@ This repo is still under development.
 
 ### Members
 
-1. Aditya Chandrashekhar Sohoni  
-
+1. Aditya Chandrashekhar Sohoni
 Roll No : 181CO203
 
-2. Arnav Nair  
-
+2. Arnav Nair
 Roll No : 181CO209
 
